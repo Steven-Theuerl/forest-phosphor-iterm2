@@ -26,6 +26,12 @@ If you want your shell prompt and syntax highlighting to match the preset, the r
 
 This is entirely optional — the color preset stands on its own with whatever shell setup you already have. If you want the integration, see [`shell/`](./shell) in the repo for the relevant snippets and which plugins they assume (`zsh-syntax-highlighting`, `zsh-autosuggestions`).
 
+## Font
+
+All screenshots and live demos use [Ioskeley Mono](https://github.com/ahatem/IoskeleyMono) — a monospace typeface that ships with ligatures and reads cleanly at small sizes. The font files are included in [`IoskeleyMono-Normal/`](./IoskeleyMono-Normal) so you can drop them straight into iTerm2 without hunting for them separately.
+
+To use it: install the files from that folder, then set your iTerm2 profile font to **Ioskeley Mono**.
+
 ## Family
 
 - **iTerm2** — this preset
