@@ -252,11 +252,11 @@
 
   ],
   "Link Color (Dark)" : {
-    "Red Component" : 0.19607843137254902,
+    "Red Component" : 0.81960784313725488,
     "Color Space" : "P3",
-    "Blue Component" : 0.93333333333333335,
+    "Blue Component" : 0.19607843137254902,
     "Alpha Component" : 1,
-    "Green Component" : 0.55686274509803924
+    "Green Component" : 0.81176470588235294
   },
   "Custom Command" : "No",
   "Jobs to Ignore" : [
